@@ -10,7 +10,7 @@ https://editor.p5js.org/Lawrenco/present/YeWEsDwz5
 ![](https://github.com/Lawrenco/Sound-and-Image-Processing-Portfolio/blob/master/SinWave.png)
 
 # Covid-19 Data Visualization: 
-Because of the current situation, I wanted to use the topic Covid-19 for one of my sketches. I have wanted to create exciting data visualisation. I started to play around with API's and found one which would fit perfectly for my idea. I have created a particle system and decided to use bright and clear colours to display the needed information.n.
+Because of the current situation, I wanted to use the topic Covid-19 for one of my sketches. Instead of creating a boring infographic I wanted to create an exciting data visualization. I have started to play around with API's and found one which would fit perfectly for my idea. The output of this sketch was a particle system with the use of bright and clear colours to display the needed information.
 https://editor.p5js.org/Lawrenco/present/Tknv2Sejr
 
 
