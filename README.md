@@ -7,7 +7,6 @@ We were asked to create 5 small P5-Sketches. Enjoy.
 I played around with patterns and dots and wanted to create an animation you could find on Instagram or Tumblr.
 I wanted it to be minimalistic but also interactive. Because of that I added the mouse function, so that the user could easily interact with this animation.
 https://editor.p5js.org/Lawrenco/present/YeWEsDwz5
-Breathe.png
 
 
 # Covid-19 Data Visualisation: 
