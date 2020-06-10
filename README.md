@@ -33,7 +33,7 @@ https://editor.p5js.org/Lawrenco/present/g01bpAJjW
 ![](https://github.com/Lawrenco/Sound-and-Image-Processing-Portfolio/blob/master/Breathe.png)
 
 # Hypnosis: 
-Playing around with patterns and colours, I have come to this sketch. The user can generate a new pattern by clicking the mouse.
+Playing around with patterns and colours, I ended up creating this sketch. The user can generate a new pattern by clicking the mouse.
 (Warning: This sketch might hypnotize you)
 https://editor.p5js.org/Lawrenco/present/IeM8ag1aF
 
