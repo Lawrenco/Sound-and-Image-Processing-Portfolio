@@ -1,0 +1,27 @@
+count = 0;
+c = 0;
+
+function setup() { 
+  createCanvas(1000, 1000);
+  ellipseMode(CENTER)
+
+} 
+
+function draw() { 
+
+  background(0);
+  
+  colorMode(HSB);	
+  if (c >= 360)  c=-80;  else  c=c+0.5;
+  
+  for (i = 0; i < width; i = i + 50) { 
+    for (j = 0; j < height; j = j + 50) {
+    count = count + 0.0001    
+    let x2 = map(mouseX, 0, width, 10, 75);
+    fill(c,255,255);
+    noStroke();
+    ellipse(i,j,10+cos(count+j+i)*x2)
+      }
+  }
+  
+}
