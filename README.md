@@ -3,7 +3,7 @@ Hey, and welcome to my Portfolio for the course Computational Practices: Sound a
 We were asked to create five small P5-Sketches. Enjoy.
 
 # Interactive SinWave: 
-I have played around with patterns and dots and wanted to create an animation you could find on Instagram or Tumblr.
+I have played around with patterns and dots and wanted to create an animation you would typically find on Instagram or Tumblr.
 I wanted it to be minimalistic but also interactive. Because of that, I added the mouse function so that the user could easily interact with this animation.
 https://editor.p5js.org/Lawrenco/present/YeWEsDwz5
 
