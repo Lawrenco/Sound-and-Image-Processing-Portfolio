@@ -1,5 +1,5 @@
 # Sound-and-Image-Processing-Portfolio
-Hey, and welcome to my Portfolio for the course Computational Practices: Sound and Image Processing at the Creative Computing Institute London.
+Hey, and welcome to my Portfolio for the course Computational Practices: Sound and Image Processing at the Creative Computing Institute.
 We were asked to create five small P5-Sketches. Enjoy.
 
 # Interactive SinWave: 
