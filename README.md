@@ -17,7 +17,7 @@ https://editor.p5js.org/Lawrenco/present/Tknv2Sejr
 ![](https://github.com/Lawrenco/Sound-and-Image-Processing-Portfolio/blob/master/Covid.png)
 
 # Audioreactive WEBGL: 
-Because of my excitement to music and audio-reactive visuals, I have decided to create it on my own. At first, I started in 2D, but I was not satisfied with the outcome. So I played around with WEBGL and nested for loops to create this audio-reactive piece. 
+Because of my excitement to music and audio-reactive visuals, I have decided to create it on my own. At first, I started creating in 2D, but I was not satisfied with the outcome. So I played around with WEBGL and nested for loops to create this audio-reactive piece. 
 (Warning: it might be a bit loud)
 https://editor.p5js.org/Lawrenco/present/9ywD__78B
 
