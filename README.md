@@ -8,6 +8,7 @@ I played around with patterns and dots and wanted to create an animation you cou
 I wanted it to be minimalistic but also interactive. Because of that I added the mouse function, so that the user could easily interact with this animation.
 https://editor.p5js.org/Lawrenco/present/YeWEsDwz5
 
+
 # Covid-19 Data Visualisation: 
 Because of the current situation I wanted to use the topic Covid-19 for one of my sketches. I've wanted to create an interesting data visualisation. I started to play around with API's and found one which would fit perfectly for my idea. I've created a particle system and decieded to use bright and clear colors to display the needed information.
 https://editor.p5js.org/Lawrenco/present/Tknv2Sejr
