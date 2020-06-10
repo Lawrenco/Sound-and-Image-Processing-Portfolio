@@ -25,7 +25,7 @@ https://editor.p5js.org/Lawrenco/present/9ywD__78B
 ![](https://github.com/Lawrenco/Sound-and-Image-Processing-Portfolio/blob/master/AudioReactive.png)
 
 # Breathing shapes: 
-I wanted to create a sketch where it looks like the shapes have an own breathing system. 
+I wanted to create a sketch where it looks like the shapes are breathing. 
 By clicking the mouse, you can generate a new piece of art!
 https://editor.p5js.org/Lawrenco/present/g01bpAJjW
 
