@@ -8,5 +8,7 @@ Interactive SinWave: https://editor.p5js.org/Lawrenco/present/YeWEsDwz5
 Covid-19 Data Visualisation: https://editor.p5js.org/Lawrenco/present/Tknv2Sejr
 
 Audioreactive WEBGL: https://editor.p5js.org/Lawrenco/present/9ywD__78B
+
 Breathing shapes: https://editor.p5js.org/Lawrenco/present/g01bpAJjW
+
 Hypnosis: https://editor.p5js.org/Lawrenco/present/IeM8ag1aF
